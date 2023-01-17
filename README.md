@@ -20,7 +20,4 @@ As more matches are played and added to the database, the output files will chan
 
 Special thanks to the zerozero.pt team for creating an awesome website.
 
-This project is part of Day 92 of the course 100 Days of Code lectured by Angela Yu, available on udemy.com.
-
-
 
